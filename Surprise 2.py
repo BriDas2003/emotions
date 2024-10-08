@@ -3,12 +3,13 @@ import time
 
 
 to_send = [
-    [[2500, 3000, 2500, 1000], 500],
+   [[2500, 3000, 2500, 1000], 500],
     [[2200, 2000, 2500, 1000], 1000],
-    [[2600, 2000, 2500, 1000], 1000],
+    [[2700, 500, 2500, 1000], 1000],
    
 ]
 
+# Head tilting forward and then going back very fast.
 
 positionx_min = 1800  # Minimum allowed positionx value
 positionx_max = 3200  # Maximum allowed positionx value
