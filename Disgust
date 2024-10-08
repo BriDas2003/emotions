@@ -4,10 +4,16 @@ import time
 
 to_send = [
     [[2500, 3000, 2500, 1000], 500],
-    [[2500, 3000, 2850, 2000], 2000],
-    [[3000, 2000, 2850, 2000], 4000],
+    [[3000, 2000, 2500, 1000], 1000],
+    [[2000, 2000, 2500, 1000], 1000],
+    [[2300, 1000, 2300, 1000], 1000],
+    [[2350, 1000, 2800, 1000], 1000],
+    [[2400, 1000, 2300, 1000], 1000],
+    [[2450, 1000, 2800, 1000], 1000],
+    [[2500, 3000, 2500, 1000], 500],
       
 ]
+#Head tilting backwards then to the front and then rearing back going left, right, left, right, whilst moving backwards and then back to idle position.
 
 
 positionx_min = 1800  # Minimum allowed positionx value
