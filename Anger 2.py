@@ -9,6 +9,8 @@ to_send = [
    
 ]
 
+# Tilting of the head forward and then while the head is moving forward, it is going right as well.
+
 
 positionx_min = 1800  # Minimum allowed positionx value
 positionx_max = 3200  # Maximum allowed positionx value
