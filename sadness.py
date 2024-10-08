@@ -7,7 +7,7 @@ to_send = [
     [[2200, 4000, 2500, 1000], 4000],
     [[2400, 3500, 2500, 1000], 4000],
 ]
-
+#Tilting of the head forward slowly and then to one side.
 
 positionx_min = 1800  # Minimum allowed positionx value
 positionx_max = 3200  # Maximum allowed positionx value
